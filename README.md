@@ -1,6 +1,7 @@
 # H7SDR
-Software defined radio on a STM32H7 microcontroller
-primitive, but working!
+Software defined radio on a STM32H7 microcontroller.
+
+Primitive, but working!
 
 compiled with STM32CubeIDE 1.6.0
 
