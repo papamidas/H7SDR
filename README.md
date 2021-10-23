@@ -1,5 +1,8 @@
 # H7SDR
 Software defined radio on a STM32H7 microcontroller.
+This is a complete radio receiver using only the built-in peripherals of a STM32H743 microcontroller.
+The internal ADC of the STM32H743 is used for digitizing the antenna signal and the internal DAC of the STM32H743 is used for putting out the audio signal.
+Everything in between is digital signal processing.
 
 Primitive, but working!
 
